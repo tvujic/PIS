@@ -8,5 +8,6 @@ namespace PIS.ConsoleApp1
 {
     internal class NewClass
     {
+        void funckija();
     }
 }
